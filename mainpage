@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+p.a {
+  font-family: "Times New Roman", Times, serif;
+}
+
+p.b {
+  font-family: Arial, Helvetica;
+}
+</style>
+</head>
+<body>
+ 
+<center>
+<div class="w3-card w3-round w3-white">
+        <div class="w3-container">
+         <h1 class="w3-center">Room</h1>
+         <p class="w3-center"><img src="r3.jpeg" class="w3-circle" style="height:200px;width:500px" alt=></p>
+         <hr>
+         </form>
+  <article class="browser">
+  <h2></h> 
+  <p>Room Id: 1</p>
+  </article>
+  <article class="browser">
+  
+    <p>Contact: 01995556622</p>
+  </article>
+  <article class="browser">
+   
+    <p>Title: Middle Room at Kiara Residence 2</p>
+  </article>
+  <article class="browser">
+    
+    <p>Discription: Prepfer move-inj immediately, 6 month, Malaysian, Student, Employed</p>
+  </article>
+  <article class="browser">
+   
+    <p>Price: 600</p>
+    </article>
+    <article class="browser">
+   
+    <p>Deposit: 300</p>
+    </article>
+    <article class="browser">
+    
+    <p>State: Kuala Lumpur</p>
+    </article>
+    <article class="browser">
+   
+    <p>Area: Mount Kiara</p>
+    </article>
+    <article class="browser">
+   
+    <p>Date Created: 2021-12-28 23:14:50</p>
+    </article>
+    <article class="browser">
+    
+    <p>Latitude: 3.777665</p>
+    </article>
+    <article class="browser">
+    
+    <p>Longitude:101.682677</p>
+  </article>
+        </div>
+      </div>
+</center>
+
+</body>
+</html>
