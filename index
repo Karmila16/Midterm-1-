@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+main {
+  margin: 0;
+  padding: 200px;
+  background-color: lightgray;
+}
+main > h1, p, .browser {
+  margin: 10px;
+  padding: 5px;
+}
+.browser {
+  background: white;
+}
+.browser > h2, p {
+  margin: 4px;
+  font-size: 90%;
+}
+</style>
+</head>
+<body>
+<h1>Rent A Room</h1>
+<main>
+  <h1>Booking </h1>
+
+<form action="/action_page.php">
+  <input type="file" id="myFile" name="filename">
+  <input type="submit">
+  <div id="display_image">
+
+<script src="script.js"></script>
+</form>
+  <article class="browser">
+    <h2>Room Id</h2>
+    <p>1</p>
+  </article>
+  <article class="browser">
+    <h2>Contact</h2>
+    <p>01995556622</p>
+  </article>
+  <article class="browser">
+    <h2>Title</h2>
+    <p>Middle Room at Kiara Residence 2</p>
+  </article>
+  <article class="browser">
+    <h2>Discription</h2>
+    <p>Prepfer move-inj immediately, 6 month, Malaysian, Student, Employed</p>
+  </article>
+  <article class="browser">
+    <h2>Price</h2>
+    <p>600</p>
+    </article>
+    <article class="browser">
+    <h2>Deposit</h2>
+    <p>300</p>
+    </article>
+    <article class="browser">
+    <h2>State</h2>
+    <p>Kuala Lumpur</p>
+    </article>
+    <article class="browser">
+    <h2>Area</h2>
+    <p>Mount Kiara</p>
+    </article>
+    <article class="browser">
+    <h2>Date Created</h2>
+    <p>2021-12-28 23:14:50</p>
+    </article>
+    <article class="browser">
+    <h2>Latitude</h2>
+    <p>3.777665</p>
+    </article>
+    <article class="browser">
+    <h2>Longitude</h2>
+    <p>101.682677</p>
+  </article>
+</main>
+
+</body>
+</html>
